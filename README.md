@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codercoder123123
+- 👋 Hi, I’m Nishant Duwadi.
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
